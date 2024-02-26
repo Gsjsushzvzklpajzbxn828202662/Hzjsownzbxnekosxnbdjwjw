@@ -343,7 +343,7 @@ if cho == '7'or cho =='07':
         else:
         	print(f'     {F} تم الصيد ✔️ : {user}   ')
         	formatted_message = f"`{user}`"
-        	uu='⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
+        	uu='⋘─────━𝗶𝗻𝘀𝘁𝗮━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
         	nn='\n\n⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n🚫𝙋𝙮 ➪ [https://t.me/N_9_N_6]'
         	url = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text={uu}{formatted_message}{nn}&parse_mode=Markdown"
         	response = requests.get(url)
@@ -394,7 +394,7 @@ if cho == '8'or cho =='08':
         else:
         	print(f'     {F} تم الصيد ✔️ : {user}   ')
         	formatted_message = f"`{user}`"
-        	uu='⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
+        	uu='⋘─────━𝗶𝗻𝘀𝘁𝗮━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
         	nn='\n\n⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n🚫𝙋𝙮 ➪ [https://t.me/N_9_N_6]'
         	url = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text={uu}{formatted_message}{nn}&parse_mode=Markdown"
         	response = requests.get(url)      	
@@ -450,7 +450,7 @@ if cho == '9'or cho =='09':
         else:
         	print(f'     {F} تم الصيد ✔️ : {user}   ')
         	formatted_message = f"`{user}`"
-        	uu='⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
+        	uu='⋘─────━𝗶𝗻𝘀𝘁𝗮━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
         	nn='\n\n⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n🚫𝙋𝙮 ➪ [https://t.me/N_9_N_6]'
         	url = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text={uu}{formatted_message}{nn}&parse_mode=Markdown"
         	response = requests.get(url)
@@ -506,7 +506,7 @@ if cho == '10'or cho =='010':
         else:
         	print(f'     {F} تم الصيد ✔️ : {user}   ')
         	formatted_message = f"`{user}`"
-        	uu='⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
+        	uu='⋘─────━𝗶𝗻𝘀𝘁𝗮━─────⋙\n\n✅ 𝚄𝚂𝙴𝚁 ➠@'
         	nn='\n\n⋘─────━𝑹𝑴𝑨𝑫━─────⋙\n🚫𝙋𝙮 ➪ [https://t.me/N_9_N_6]'
         	url = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text={uu}{formatted_message}{nn}&parse_mode=Markdown"
         	response = requests.get(url)
